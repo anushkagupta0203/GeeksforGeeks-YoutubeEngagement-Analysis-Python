@@ -69,3 +69,9 @@ Key visualizations and findings include:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
+
+---
+
+## 📬 Get in Touch
+
+If you have feedback or questions, feel free to reach out or connect on [LinkedIn](https://linkedin.com/in/anushkagupta23).
